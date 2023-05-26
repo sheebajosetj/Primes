@@ -17,3 +17,4 @@ def generate_primes(N):
 N = int(input("Enter a number: "))
 prime_numbers = generate_primes(N)
 print("Prime numbers up to", N, "are:", prime_numbers)
+
